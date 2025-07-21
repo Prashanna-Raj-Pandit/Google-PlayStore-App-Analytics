@@ -4,11 +4,6 @@
 
 This project explores the **Google Play Store app dataset** to identify trends, outliers, and factors that might influence app success. The analysis is done using Python in Jupyter Notebook and includes data cleaning, visualization, and interpretation of patterns based on app ratings, categories, installs, reviews, and pricing.
 
----
-
-##  Goal of the Project
-
-The main goal was to **understand what makes an app successful** — does it depend on category, rating, price, size, or number of installs?
 
 Through this analysis, we tried to answer questions like:
 
@@ -20,7 +15,6 @@ Through this analysis, we tried to answer questions like:
 
 ---
 
-## Exploratory Data Analysis (EDA)
 
 ### 1. **App Categories and Their Count**
 
