@@ -1,4 +1,4 @@
-![image](./image.png)
+![image](./images/image.png)
 
 
 
@@ -32,21 +32,21 @@ The notebook goes through:
 ##  Key Findings 
 
 ### Percentage of Male vs. Female Laureates
-![Percentage of Male vs. Female Laureates](./male_vs_female.png)
+![Percentage of Male vs. Female Laureates](./images/male_vs_female.png)
 
 ### Number of Prizes per Category
-![Number of Prizes per Category](./prize_per_category.png)
-![alt text](image-1.png)
+![Number of Prizes per Category](./images/prize_per_category.png)
+![alt text](./images/image-1.png)
 ### Number of prize awarded over time
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](./images/image-2.png)
+![alt text](./images/image-3.png)
+![alt text](./images/image-4.png)
+![alt text](./images/image-5.png)
+![alt text](./images/image-6.png)
 ---
 
 ## Where do discoveries takes place?
-<video controls src="Screen Recording 2024-06-18 at 11.36.15 AM.mov" title="Title"></video>
+<video controls src="./images/Screen Recording 2024-06-18 at 11.36.15 AM.mov" title="Title"></video>
 
 ### 1. Physics, Chemistry, and Medicine dominate
 
