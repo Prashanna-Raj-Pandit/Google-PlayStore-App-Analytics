@@ -32,9 +32,9 @@ We found that the **FAMILY** category has the highest number of apps, followed b
 
 ---
 
-### 2. **Visualise Categorical Data: Content Ratings**
+### 2. **Content Ratings**
 
-Most apps have ratings between **4.0 and 4.7**, indicating generally favorable user reviews. However, some apps have no ratings at all.
+The chart shows that over 80% of apps on the Play Store are rated “Everyone”, indicating a strong focus on universally accessible content. “Teen” and “Mature 17+” apps follow but make up a much smaller share. This suggests developers prioritize broad user reach and compliance with Google’s age policies.
 
 ![alt text](./images/image.png)
 
